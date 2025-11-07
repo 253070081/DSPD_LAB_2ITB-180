@@ -3,7 +3,7 @@
 This repository contains all practical programs of Data Structure and Program Design (DSPD).
 Each practical demonstrates the implementation of different data structures and how they are used in program design and problem solving using the C programming language.
 The programs are written in a clean, structured, and easy-to-understand manner for learning and academic use.
-### 🧩 DSPD Practicals List
+### DSPD Practicals List
 1A. **Sum of Even & Odd Position Elements in Array**  
 1B. **Binary Search Implementation**  
 1C. **Student Structure – Sort by Average Marks (Bubble Sort)**  
