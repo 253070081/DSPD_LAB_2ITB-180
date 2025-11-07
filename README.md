@@ -15,7 +15,7 @@ The programs are written in a clean, structured, and easy-to-understand manner f
 7. **BFS and DFS Traversal on Undirected Graph (3x3 Grid)**  
 8. **Kruskal’s Algorithm – Find Minimum Spanning Tree (MST)**  
 9. **Closed Hash Table using h(k) = k mod 7**  
-1️0. **File Copy Program (Copy input.txt → output.txt)**
+1️0. **File Copy Program (Copy input.txt to output.txt)**
 ### Author
 **Shrikant More**
 **IT-B-180**
